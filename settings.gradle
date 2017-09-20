@@ -1,0 +1,1 @@
+include ':app', ':slidingmenu', ':tablagout_zdy_henghua', ':xlistview', ':clearcun', ':updateloads'

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.netease.XiangqingActivity"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:background="#EB413D">
+    <ImageView
+        android:id="@+id/iv_xq_zuo"
+        android:layout_width="25dip"
+        android:layout_height="25dip"
+        android:src="@drawable/zuojiantou"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        />
+        <ImageView
+            android:id="@+id/iv_xq_fenxiang"
+            android:layout_width="60dip"
+            android:layout_height="40dip"
+            android:src="@drawable/cd"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+    <WebView
+        android:id="@+id/wv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></WebView>
+</LinearLayout>

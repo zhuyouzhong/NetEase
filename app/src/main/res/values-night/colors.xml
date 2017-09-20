@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EB413D</color>
+    <color name="colorPrimaryDark">#EB413D</color>
+    <color name="colorAccent">#EB413D</color>
+
+
+    <color name="ziti">#EB413D</color>
+    <color name="topbieing">#EB413D</color>
+
+    <color name="left_item_beijing">#232322</color>
+    <color name="cehuabeijing">#2A2A2A</color>
+    <color name="itemziti">#000</color>
+    <color name="popwindow">#232322</color>
+</resources>
